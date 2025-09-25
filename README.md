@@ -24,15 +24,15 @@ Currently diving into **startups, AI, and full stack projects**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salim07/" target="_blank">
-    <img src="[https://media.giphy.com/media/3o7TKPjZyR8Z9ztGUE/giphy.gif" width="50" alt="LinkedIn](https://camo.githubusercontent.com/9b31f9c64600c39802e1b98083695c0cfcfb3c5d88c737d0288ed3d95ed644ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="50" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" width="40" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="50" alt="Portfolio"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="Portfolio"/>
   </a>
 </p>
 
