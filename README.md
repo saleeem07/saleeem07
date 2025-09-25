@@ -1,5 +1,5 @@
 # 🚀 Project Kayaws
-**Player:** Fahadullah Salim (aka Habibi)  
+**Player:** Fahadullah Salim  
 **lvl:** 19 (and grinding…)  
 
 ⚡ **devchip**: If you can read this, it means I haven’t broken production yet.  
@@ -21,7 +21,7 @@ Currently diving into **startups, AI, and full stack projects**.
 ---
 
 ### 🔗 Reach Me
-[🌐 Portfolio](#) | [💼 LinkedIn](#) | [🐦 Twitter](#)  
+[🌐 Portfolio](#) | [💼 LinkedIn](#https://www.linkedin.com/in/salim07/) | [🐦 Twitter](#)  
 
 ---
 
