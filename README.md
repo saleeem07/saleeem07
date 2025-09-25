@@ -24,17 +24,18 @@ Currently diving into **startups, AI, and full stack projects**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salim07/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="40" style="color:#0A66C2;" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" width="40" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/x.svg" width="40" style="color:#FFFFFF;" alt="X"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="Portfolio"/>
+  <a href="https://github.com/Saleeem07" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="40" style="color:#FFFFFF;" alt="GitHub"/>
   </a>
 </p>
+
 
 ---
 
