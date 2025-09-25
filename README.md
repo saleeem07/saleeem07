@@ -21,7 +21,20 @@ Currently diving into **startups, AI, and full stack projects**.
 ---
 
 ### 🔗 Reach Me
-[🌐 Portfolio](#) | [💼 LinkedIn](https://www.linkedin.com/in/salim07/) | [🐦 Twitter](https://x.com/faddy_07fz)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/salim07/" target="_blank">
+    <img src="https://media.giphy.com/media/3o7TKPjZyR8Z9ztGUE/giphy.gif" width="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="50" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="50" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
