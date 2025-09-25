@@ -1,6 +1,6 @@
 # 🚀 Project Kayaws
 **Player:** Fahadullah Salim  
-**lvl:** 19 (and grinding…)  
+**lvl:** 21 (and grinding…)  
 
 ⚡ **devchip**: If you can read this, it means I haven’t broken production yet.  
 
@@ -14,50 +14,50 @@ Currently diving into **startups, AI, and full stack projects**.
 ---
 
 ### 🛠 Tech Arsenal
-**Frontend:** React, Next.js, TailwindCSS, Remix, Redux  
+**Frontend:** React, TailwindCSS 
 **Backend:** Node.js, Express.js, Next.js  
-**Other stuff:** C++, Java, Three.js, SQL  
+**Other stuff:** C++, Three.js, Java, SQL  
 
 ---
 
 ### 🔗 Reach Me
-[🌐 Portfolio](#) | [💼 LinkedIn](#https://www.linkedin.com/in/salim07/) | [🐦 Twitter](#)  
+[🌐 Portfolio](#) | [💼 LinkedIn](https://www.linkedin.com/in/salim07/) | [🐦 Twitter](https://x.com/faddy_07fz)
 
 ---
 
 ### 🌱 Current Status
 - 🧠 Learning: **Java & Three.js**  
-- 👩‍💻 Working on: **OptiWHEEL** (my startup project) + random fun experiments  
-- 🤝 Open to collaborate on: **React, Node, or anything with JS/TS**  
+- 👩‍💻 Working on: **OptiWHEEL** (my startup project) + **EduHire** (a platform for student profiles & AI resumes) + random fun experiments  
+- 🤝 Open to collaborate on: **React, Node, or anything with JS**  
 - 💬 Ask me about: **JavaScript, C++, Startups, F1 trivia (yes, I’m a fan 🏎️)**  
 - ⚡ Fun fact: The world’s first bug was a *real moth* stuck in a computer relay.  
 
 ---
 
 ### 📌 Projects (Pinned)
+- 🌐 **News & Media Portal (IOCL Internship)** – Built with React + TailwindCSS
+- ⚡ **OptiWHEEL** – An advanced wheelchair innovation (Startup project 🚀)  
 - 🕹️ **Tic Tac Toe GUI (Java Swing)** – A retro game with modern polish  
 - 📊 **ExpenseMATE** – Personal expense tracker for the budget warriors  
 - 🗳️ **Digital Voting System** – Because democracy should scale  
-- 🌐 **News & Media Portal (IOCL Internship)** – Built with React + TailwindCSS  
-- ⚡ **OptiWHEEL** – An advanced wheelchair innovation (Startup project 🚀)  
 
 ---
 
 ### 📊 GitHub Stats
-![Habibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![Saleem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleeem07&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleeem07&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Saleeem07&theme=radical&hide_border=false)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Saleeem07&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Saleeem07/Saleeem07/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 👀 Visitor Counter
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Saleeem07&color=blueviolet&style=flat-square)
 
 ---
 
